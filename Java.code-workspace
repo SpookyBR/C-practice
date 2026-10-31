@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../Java"
+		},
+		{
+			"name": "Python",
+			"path": "../Python"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
