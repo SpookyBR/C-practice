@@ -6,7 +6,7 @@
 //Referencias:
 
 //Uso de IA:
-Main: https://claude.ai/share/04112b4f-3376-4002-b70e-8d2e57ff3ac7
+//Main: https://claude.ai/share/2f8cb8cf-9153-49f4-9fc0-0296c5848c9b
 #include <stdio.h>
 #include <stdlib.h>
 
